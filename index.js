@@ -1,0 +1,1 @@
+const blessed = require('blessed');

@@ -1,1 +1,1 @@
-const blessed = require('blessed');
+const Interface = require('./interface');

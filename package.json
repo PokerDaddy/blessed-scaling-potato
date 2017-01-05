@@ -2,6 +2,7 @@
   "name": "blessed-scalaing-potato",
   "version": "0.0.1",
   "dependencies": {
-    "blessed": "^0.1.81"
+    "blessed": "^0.1.81",
+    "request": "^2.79.0"
   }
 }
